@@ -30,16 +30,16 @@
     "eslint-plugin-standard": "^3.1.0",
     "ethereumjs-util": "^5.2.0",
     "ethjs-abi": "^0.2.1",
-    "ganache-cli": "6.1.0",
+    "ganache-cli": "6.12.2",
     "openzeppelin-solidity": "1.10.0",
-    "solidity-coverage": "^0.5.4",
+    "solidity-coverage": "^0.5.11",
     "solium": "^1.1.7",
     "truffle": "4.1.11",
     "truffle-hdwallet-provider": "0.0.5",
-    "web3-utils": "^1.0.0-beta.34"
+    "web3-utils": "^1.10.4"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.34",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "@babel/polyfill": "^7.8.7",
     "bignumber.js": "^9.0.0"
   }
